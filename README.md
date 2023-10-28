@@ -1,6 +1,6 @@
 # 👋
 
-Hi, I am Jia Wei, a budding data analyst. Right now I am sharing my progress with the Google Advanced Data Analytics. Will update with more projects as I go
+Hi, I am Jia Wei, a budding data analyst. I am currently doing projects i find interesting and will be building the numbers up 👍. Thanks for reading
 
 My Links
   - :envelope: [E-mail address](Aloysius.jw@gmail.com)
